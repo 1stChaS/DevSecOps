@@ -44,3 +44,4 @@ temp/
 *.tar.gz
 *.iso
 EOF
+k8s-in-1-hour/mongo-secret.yaml
